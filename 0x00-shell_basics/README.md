@@ -16,4 +16,4 @@ mv [[:upper:]]* /tmp/u is the script that  moves all files beginning with an upp
 
 rm *~ is the script that deletes all files in the current working directory that end with the character ~
 mkdir -p welcome/to/school is the script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
-ls -pamv is the command to Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0
+ls -pamv is the command that lists all the files and directories of the current directory, separated by commas (,)
