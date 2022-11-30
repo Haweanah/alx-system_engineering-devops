@@ -6,3 +6,4 @@ ls -ln is a script that display Display current directory contents using Long fo
 mv /tmp/betty /tmp/my_first_director is the script to Move the file betty from /tmp/ to /tmp/my_first_directory
 rm /tmp/my_first_directory/betty is the script to delete the file betty
 rm -r /tmp/my_first_directory is the script to delete the directory my_first_directory that is in the /tmp directory
+cd - is the script that changes the working directory to the previous one
