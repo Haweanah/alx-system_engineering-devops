@@ -23,4 +23,7 @@
 
 "chgrp school hello" is the script that changes the group owner to school for th file hello
 
-"chown vincent:staff" is the script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
+"chown vincent:staff" is the script that changes the owner to vincent and the group owner to staff for all the files and directories in the working director
+y
+
+"chownn-h vincent:staff_hello" is the script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
