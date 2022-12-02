@@ -14,3 +14,5 @@
 "chmod 007 hello" is the script that sets the permission to the file hello
 
 "chmod 753 hello is the script that sets the mode of the file hello
+
+"chmod --reference=olleh hello" is the script that sets the mode of the file hello the same as olleh’s mode
