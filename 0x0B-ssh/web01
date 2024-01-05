@@ -1,0 +1,1 @@
+ssh -i ~/.ssh/my_key ubuntu@34.201.61.177
